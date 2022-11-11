@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\bin\Debug\net6.0\Exerc Composition.exe
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\bin\Debug\net6.0\Exerc Composition.deps.json
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\bin\Debug\net6.0\Exerc Composition.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\bin\Debug\net6.0\Exerc Composition.dll
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\bin\Debug\net6.0\Exerc Composition.pdb
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.dll
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\refint\Exerc Composition.dll
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.pdb
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\Exerc Composition.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Exerc Composition\Exerc Composition\obj\Debug\net6.0\ref\Exerc Composition.dll
